@@ -6,6 +6,6 @@
         />
     <item
         android:id="@+id/detay"
-        android:title="Detay"
+        android:title="Detay."
         />
 </menu>
